@@ -1,4 +1,4 @@
-# TaskFlow Software — ISO/IEC 27001:2022 Control Mapping
+# TaskFlow Software — ISO/IEC 27001:2022 Control Mapping.
 
 ## Project Overview
 This repository contains the initial security control mapping prepared for **TaskFlow Software** as part of their ISO/IEC 27001:2022 audit readiness engagement (supported by Ezitech). 
